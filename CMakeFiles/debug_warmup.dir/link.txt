@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/debug_warmup.dir/app/main.cpp.o -o debug_warmup  libdebugging_lib.a 

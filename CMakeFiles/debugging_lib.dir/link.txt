@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdebugging_lib.a CMakeFiles/debugging_lib.dir/src/dw.cpp.o
+/usr/bin/ranlib libdebugging_lib.a

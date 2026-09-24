@@ -1,0 +1,5 @@
+if(EXISTS "/home/allison-avila/cosc1437/dw08/tests/dw_test[1]_tests.cmake")
+  include("/home/allison-avila/cosc1437/dw08/tests/dw_test[1]_tests.cmake")
+else()
+  add_test(dw_test_NOT_BUILT dw_test_NOT_BUILT)
+endif()
